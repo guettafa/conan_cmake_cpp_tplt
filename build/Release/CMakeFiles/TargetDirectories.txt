@@ -1,3 +1,0 @@
-/Users/ohf/Documents/learning/cpp/google_test/build/Release/CMakeFiles/GoogleFramework.dir
-/Users/ohf/Documents/learning/cpp/google_test/build/Release/CMakeFiles/edit_cache.dir
-/Users/ohf/Documents/learning/cpp/google_test/build/Release/CMakeFiles/rebuild_cache.dir

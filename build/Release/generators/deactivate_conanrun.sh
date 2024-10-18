@@ -1,1 +1,0 @@
-. "/Users/ohf/Documents/learning/cpp/google_test/build/Release/generators/deactivate_conanrunenv-release-armv8.sh"
