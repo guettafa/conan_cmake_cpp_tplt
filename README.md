@@ -1,3 +1,7 @@
+# Requirements
+- conan
+- cmake
+
 # Install packages from conanfile.txt
 ```sh
 # in root
