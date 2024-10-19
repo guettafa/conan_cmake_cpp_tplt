@@ -27,3 +27,11 @@ cmake --build --preset conan-release
 ```sh
 cmake --build build/Release --target clean
 ```
+
+# For nvim/vim users
+if you still see errors add a link for the compile_commands.json file generated in build/Release
+```sh
+# Execute this command in root of the project
+ln -s build/Release/compile_commands.json ./
+```
+
